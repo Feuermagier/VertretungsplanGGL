@@ -1,4 +1,4 @@
-package firemage.vertretungsplan.firemage.vertretungsplan.network;
+package firemage.vertretungsplan.network;
 
 import android.accounts.AbstractAccountAuthenticator;
 import android.accounts.Account;
